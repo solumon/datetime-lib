@@ -1,3 +1,6 @@
-export default function hello() {
-  console.log("hello")
+
+// index.js
+function add(a, b) {
+  return a + b
 }
+export default {add}
