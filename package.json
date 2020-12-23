@@ -1,6 +1,6 @@
 {
   "name": "datetime-lib",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "datetime tools",
   "main": "index.js",
   "scripts": {
