@@ -1,3 +1,8 @@
 import dayjs from "dayjs";
 
-export default {}
+function formatDate(date, fmt) {
+  return dayjs(date).format(fmt).toString()
+}
+export default {
+  formatDate
+}
